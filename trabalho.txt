@@ -13,3 +13,18 @@ O nome “variável” é conhecido e utilizado por ser um tipo de conteúdo que
 Explique o que seria um SERVIDOR, no contexto da computação
 Os Servidores são computadores ou sistemas computacionais que atendem requisições de dispositivos clientes, através de uma ou mais redes (locais ou remotas).
 Eles são capazes de executar aplicações (programas), prover processamento e/ou capacidade de armazenamento de dados.
+
+
+SEGUNDA PARTE 
+
+1 – Encontre referências e comente: 
+
+a. A relação entre a LGPD e os Data Centers no Brasil->>
+
+
+b. Formatos de arquivos de dados proprietários e abertos
+
+b.1 forneça exemplos de formatos
+
+b.2 discuta as implicações relacionadas a dados públicos
+
