@@ -16,7 +16,12 @@ Java: Aplicativos empresariais, Android, sistemas distribuídos.
 C++: Sistemas operacionais, jogos, aplicativos de desktop de alto desempenho.
 
 
-2- https://github.com/felipebpaimdecarvalho/felipepaim/blob/main/Print%20Python.png
+2- Link do print da execução : 
+
+https://github.com/felipebpaimdecarvalho/felipepaim/blob/main/Print%20Python.png
+
+Código mínimo Python: 
+print('Hello world!')
 
 Esse é o codigo mínimo no C ++ :
 #include <iostream>
