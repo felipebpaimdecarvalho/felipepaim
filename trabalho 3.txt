@@ -18,6 +18,12 @@ C++: Sistemas operacionais, jogos, aplicativos de desktop de alto desempenho.
 
 2- https://github.com/felipebpaimdecarvalho/felipepaim/blob/main/Print%20Python.png
 
+Esse é o codigo mínimo no C ++ :
+#include <iostream>
 
+int main() {
+    std::cout << "Diogo é um grande homem" << std::endl;
+    return 0;
+}
 
 
