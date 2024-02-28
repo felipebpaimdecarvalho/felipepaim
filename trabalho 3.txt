@@ -1,0 +1,22 @@
+1 – Explique as diferenças entre 3 linguagens de programação - 
+Sintaxe e Paradigma:
+
+Python: Sintaxe limpa e legível, suporta programação imperativa, funcional e orientada a objetos.
+Java: Sintaxe similar ao C++, fortemente tipada e orientada a objetos.
+C++: Sintaxe complexa, multiparadigma (procedural, orientada a objetos e genérica).
+Gerenciamento de Memória:
+
+Python: Gerenciamento automático de memória.
+Java: Gerenciamento automático de memória via coletor de lixo.
+C++: Necessidade de gerenciar manualmente a alocação e liberação de memória.
+Aplicações:
+
+Python: Desenvolvimento web, automação, análise de dados, inteligência artificial.
+Java: Aplicativos empresariais, Android, sistemas distribuídos.
+C++: Sistemas operacionais, jogos, aplicativos de desktop de alto desempenho.
+
+
+
+
+
+
