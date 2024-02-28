@@ -1,1 +1,12 @@
+comente: a. A relação entre a LGPD e os Data Centers no Brasil - 
+R: A exposição de dados online carece de cuidados extremos que sejam amparados pela proteção de dados, levando em consideração que o mundo está constantemente trocando dados e informações a todo momento. Com isso, a LGPD trata com cautela o cumprimento da segurança necessária com a exigência para adaptação às novas regras de privacidade de dados. Os data centers, sendo como um celeiro de dados, tem o requisito de estarem em sintonia e de acordo com estes parâmetros de segurança, para que nenhum provedor venha a sofrer danos ou perdas físicas capazes de atingir dados armazenados na nuvem de um de seus clientes. Nesse sentido, a LGPD estabelece, ainda, que não importa se a sede de uma organização ou o seu Data Center estão localizados no Brasil ou no exterior, ou ainda se os dados são tratados no meio físico ou nos digitais: todos estão sujeitos à regulação. 
+
+b. Formatos de arquivos de dados proprietários e abertos
+b.1 forneça exemplos de formatos
+R: psd, dwg, docx - formatos propietários.
+txt, jpg , pdf - formatos abertos
+
+ b.2 discuta as implicações relacionadas a dados públicos
+A oferta de e disponibilidade de dados públicos pode trazer benefícios como transparência e inovação, contudo levanta cuidado e preocupações relacionadas à privacidade, segurança e potencial objetivo ou viés. É de suma importância buscar equilibrar o acesso à informação aliado a proteção da privacidade assegurando a ética e transparência na coleta e uso dos dados. A responsabilidade e prestação de contas governamentais são fortalecidas, entretanto desafios como segurança da informação e gestão de viés  devem ser abordados visando utilizar os maiores benefícios dos dados públicos. 
+
 
