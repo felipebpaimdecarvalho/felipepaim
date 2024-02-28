@@ -38,4 +38,16 @@ https://github.com/felipebpaimdecarvalho/felipepaim/blob/main/Print%20C%20%2B%2B
 Link do print da execução Java: 
 https://github.com/felipebpaimdecarvalho/felipepaim/blob/main/Print%20Java.png
 
+Código mínimo Java : 
+
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+// The main method must be in a class named "Main".
+class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+    }
+}
 
