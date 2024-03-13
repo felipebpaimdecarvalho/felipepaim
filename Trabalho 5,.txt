@@ -14,6 +14,7 @@ print("Array ordenado usando Bubble Sort:")
 for i in range(len(arr)):
     print("%d" % arr[i])
 
+https://github.com/felipebpaimdecarvalho/felipepaim/blob/b66a38671ba681b1a6ef89bbe6c124e317fdd615/Captura%20de%20tela%20-%20Trabalho%205%20-1.png
 
 
 
@@ -29,3 +30,4 @@ def imprime_vogais(frase):
 frase = "Olá, mundo! Como você está hoje?"
 imprime_vogais(frase)
 
+https://github.com/felipebpaimdecarvalho/felipepaim/blob/b66a38671ba681b1a6ef89bbe6c124e317fdd615/Captura%20de%20tela%20-%20Trabalho%205%20-%202%20.png
