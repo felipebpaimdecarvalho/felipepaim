@@ -1,0 +1,8 @@
+def bombons (dinheiro, preço) :
+    n_bombons = dinheiro // preco
+    troco = dinheiro % preco
+    return n_bombons, troco
+
+def a_mais (dinheiro,preco) :
+    qtd, troco = bombons(dinheiro, preco)
+    return preco - troco 
